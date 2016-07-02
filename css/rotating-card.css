@@ -284,7 +284,10 @@ pre.prettyprint {
     color: white;
     background-color: #005ce6;
     float: right;
-    border-radius: 15px;
+    border-radius: 10px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
 }
 
 .btn-simple:hover,
